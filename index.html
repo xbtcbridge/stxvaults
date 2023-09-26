@@ -19,7 +19,7 @@
     <th data-field="collateral-token" data-sortable="true">Token</th>
     <th data-field="collateral" data-sortable="false"  data-formatter="collateralFormatter">Locked (in Token)</th>
     <th data-field="debt" data-sortable="true" data-formatter="debtFormatter">Debt (in USDA)</th>
-    <th data-field="ratio" data-sortable="true">Ratio (%)</th>
+    <th data-field="ratio" data-sortable="true" data-formatter="ratioFormatter">Ratio (%)</th>
     </tr>
   </thead>
     </table>
@@ -34,9 +34,12 @@
     </script>
     <script>
     function collateralFormatter(value, row) {
-	console.log(row)
         if (row['collateral-token'] == "STX"){return value/1e6}
 	if (row['collateral-token'] == "xBTC" || row['collateral-token'] == "auto-alex"){return value/1e8}
+    }
+    </script>
+    function ratioFormatter(value, row) {
+        if (value > 99999) { return ">100000"}
     }
     </script>
   </body>
