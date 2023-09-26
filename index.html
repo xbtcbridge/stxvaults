@@ -17,7 +17,7 @@
     <th data-field="id" data-sortable="true">Vault ID</th>
     <th data-field="owner" data-sortable="false">Owner</th>
     <th data-field="collateral-token" data-sortable="true">Token</th>
-    <th data-field="collateral" data-sortable="false">Locked</th>
+    <th data-field="collateral" data-sortable="false"  data-formatter="collateralFormatter">Locked</th>
     <th data-field="debt" data-sortable="true" data-formatter="debtFormatter">Debt</th>
     <th data-field="ratio" data-sortable="true">Ratio</th>
     </tr>
@@ -30,6 +30,12 @@
     <script>
     function debtFormatter(value, row) {
         return value/1e6
+    }
+    </script>
+    <script>
+    function collateralFormatter(value, row) {
+        if (row.collateral-token == "STX"){return value/1e6}
+	if (row.collateral-token == "xBTC" or row.collateral-token == "auto-alex"){return value/1e8}
     }
     </script>
   </body>
