@@ -15,11 +15,12 @@
     <thead>
     <tr>
     <th data-field="id" data-sortable="true" data-formatter="idFormatter">Vault ID</th>
-    <th data-field="owner" data-sortable="false">Owner</th>
     <th data-field="collateral-token" data-sortable="true">Token</th>
     <th data-field="collateral" data-sortable="false"  data-formatter="collateralFormatter">Locked (in Token)</th>
     <th data-field="debt" data-sortable="true" data-formatter="debtFormatter">Debt (in USDA)</th>
     <th data-field="ratio" data-sortable="true" data-formatter="ratioFormatter">Ratio (%)</th>
+    <th data-field="owner" data-sortable="false" data-formatter="ownerFormatter">Owner</th>
+    <th data-field="created-at-block-height" data-sortable="true">Created on (block)</th>
     </tr>
   </thead>
     </table>
@@ -35,6 +36,11 @@
     <script>
     function idFormatter(value, row) {
         return "<a href='https://app.arkadiko.finance/vaults/"+value+"'>"+value+"</>"
+    }
+    </script>
+    <script>
+    function ownerFormatter(value, row) {
+        return "<a href='https://explorer.hiro.so/address/"+value+"?chain=mainnet'>"+value+"</>"
     }
     </script>
     <script>
