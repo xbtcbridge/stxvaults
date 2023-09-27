@@ -14,7 +14,7 @@
     <table data-toggle="table" data-url="json/vaults.json">
     <thead>
     <tr>
-    <th data-field="id" data-sortable="true">Vault ID</th>
+    <th data-field="id" data-sortable="true" data-formatter="idFormatter">Vault ID</th>
     <th data-field="owner" data-sortable="false">Owner</th>
     <th data-field="collateral-token" data-sortable="true">Token</th>
     <th data-field="collateral" data-sortable="false"  data-formatter="collateralFormatter">Locked (in Token)</th>
@@ -30,6 +30,11 @@
     <script>
     function debtFormatter(value, row) {
         return value/1e6
+    }
+    </script>
+    <script>
+    function idFormatter(value, row) {
+        return "<a href='https://app.arkadiko.finance/vaults/'+value+">"+value+"</>"
     }
     </script>
     <script>
