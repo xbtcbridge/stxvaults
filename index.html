@@ -51,8 +51,17 @@
     </script>
     <script>
     function ratioFormatter(value, row) {
-        if (value > 99999) { return ">100000"}
-	return value
+	var collateralType = row['collateral-type']
+	var color = "green"
+	var minratio = 100
+	if (collateralType == "STX-A"){ minratio =140}
+	if (collateralType =="ATALEX-A"){ minratio = 170}
+	if (collateralType =="STX-B"){ minratio = 130}
+	if (collateralType =="XBTC-A"){ minratio = 130}
+	if (value - minratio < 10){  color = "red"}
+	if (value - minratio < 80){  color = "orange"}
+	if (value > 99999) { value = ">100000"}
+	return '<div style="color: ' + color + '">' + value + '</div>'
     }
     </script>
   </body>
