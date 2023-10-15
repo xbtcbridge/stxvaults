@@ -1,16 +1,224 @@
 [
   {
-    "collateral": 1043512098.0, 
+    "collateral": 20400350981.0, 
     "collateral-token": "STX", 
-    "owner": "SP3VBME5VPZJ16G7KFA2VFTNHD7924RNE4G4J46ZZ", 
+    "owner": "SP2VY1TVZWW1ANEFDB28T50EJ06H4M4G4YASNDHCE", 
     "is-liquidated": "False", 
-    "updated-at-block-height": "123828", 
+    "updated-at-block-height": "124748", 
+    "debt": "1942719195", 
+    "id": "1293", 
+    "leftover-collateral": "0", 
+    "ratio": 527.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "36193"
+  }, 
+  {
+    "collateral": 171498.0, 
+    "collateral-token": "xBTC", 
+    "owner": "SP2AB8Q2MMPP1S2NM13N3NNBE0KA6CG94FK7MZ41H", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124738", 
+    "debt": "18189058", 
+    "id": "2514", 
+    "leftover-collateral": "0", 
+    "ratio": 253.0, 
+    "collateral-type": "XBTC-A", 
+    "created-at-block-height": "110957"
+  }, 
+  {
+    "collateral": 93915.0, 
+    "collateral-token": "xBTC", 
+    "owner": "SP2AB8Q2MMPP1S2NM13N3NNBE0KA6CG94FK7MZ41H", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124737", 
+    "debt": "4453458", 
+    "id": "2504", 
+    "leftover-collateral": "0", 
+    "ratio": 566.0, 
+    "collateral-type": "XBTC-A", 
+    "created-at-block-height": "105043"
+  }, 
+  {
+    "collateral": 7034935.0, 
+    "collateral-token": "xBTC", 
+    "owner": "SP34T0DS0ECN32J0JK891YP6JQ8VZDHJ98MPR74GX", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124734", 
+    "debt": "1039926152", 
+    "id": "2372", 
+    "leftover-collateral": "0", 
+    "ratio": 182.0, 
+    "collateral-type": "XBTC-A", 
+    "created-at-block-height": "96596"
+  }, 
+  {
+    "collateral": 36415012.0, 
+    "collateral-token": "STX", 
+    "owner": "SP2AB8Q2MMPP1S2NM13N3NNBE0KA6CG94FK7MZ41H", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124673", 
+    "debt": "7406499", 
+    "id": "2528", 
+    "leftover-collateral": "0", 
+    "ratio": 247.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "118051"
+  }, 
+  {
+    "collateral": 11579167997.0, 
+    "collateral-token": "STX", 
+    "owner": "SPV48Q8E5WP4TCQ63E9TV6KF9R4HP01Z8WS3FBTG", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124648", 
+    "debt": "615364751", 
+    "id": "2238", 
+    "leftover-collateral": "0", 
+    "ratio": 943.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "73714"
+  }, 
+  {
+    "collateral": 2150009757.0, 
+    "collateral-token": "STX", 
+    "owner": "SP208XD20NAHGXA2KE0442F9F03GY23MHEBC60C2K", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124631", 
+    "debt": "465195529", 
+    "id": "2243", 
+    "leftover-collateral": "0", 
+    "ratio": 232.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "74754"
+  }, 
+  {
+    "collateral": 202926549917.0, 
+    "collateral-token": "STX", 
+    "owner": "SP3N8ZJBY5R6V4QNW7GR7GA6VG73WAYXAFPEMF69X", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124610", 
+    "debt": "39675372544", 
+    "id": "1784", 
+    "leftover-collateral": "0", 
+    "ratio": 256.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "42917"
+  }, 
+  {
+    "collateral": 30190003191.0, 
+    "collateral-token": "STX", 
+    "owner": "SP2M7K3YM8813404G1R7AXV106CPWH0Z5ZA80JVAV", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124565", 
     "debt": "0", 
-    "id": "1502", 
+    "id": "2328", 
     "leftover-collateral": "0", 
     "ratio": 100000, 
     "collateral-type": "STX-A", 
-    "created-at-block-height": "38123"
+    "created-at-block-height": "95277"
+  }, 
+  {
+    "collateral": 45671540664.0, 
+    "collateral-token": "STX", 
+    "owner": "SP3X35B5W03X9Z57EB8H0EDPB5SP64B9VXEYJNM12", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124513", 
+    "debt": "7953886504", 
+    "id": "2443", 
+    "leftover-collateral": "0", 
+    "ratio": 288.0, 
+    "collateral-type": "STX-B", 
+    "created-at-block-height": "98896"
+  }, 
+  {
+    "collateral": 10000000.0, 
+    "collateral-token": "STX", 
+    "owner": "SPMQAMQP7SD25HRENNHHRK38PY5M2AE6SWVZVY56", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124412", 
+    "debt": "2000000", 
+    "id": "2539", 
+    "leftover-collateral": "0", 
+    "ratio": 251.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "124412"
+  }, 
+  {
+    "collateral": 5981397078.0, 
+    "collateral-token": "STX", 
+    "owner": "SP3RBA1QKQCQYDSN7EF4V9M1Z038PZ17ZZEK3DRVW", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124380", 
+    "debt": "627819096", 
+    "id": "940", 
+    "leftover-collateral": "0", 
+    "ratio": 478.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "35192"
+  }, 
+  {
+    "collateral": 75500000000.0, 
+    "collateral-token": "STX", 
+    "owner": "SP39TAEWH0DYMK8DZ00D61DMA4D4N544HVGQHVJR7", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124202", 
+    "debt": "1975911128", 
+    "id": "2317", 
+    "leftover-collateral": "0", 
+    "ratio": 1916.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "92378"
+  }, 
+  {
+    "collateral": 10225000000.0, 
+    "collateral-token": "STX", 
+    "owner": "SP18JYK86ZBZSZR8V4ZT0TXVAS2YXDN64JED02RDG", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124194", 
+    "debt": "2113661621", 
+    "id": "2451", 
+    "leftover-collateral": "0", 
+    "ratio": 243.0, 
+    "collateral-type": "STX-B", 
+    "created-at-block-height": "99173"
+  }, 
+  {
+    "collateral": 5448316405.0, 
+    "collateral-token": "STX", 
+    "owner": "SP381G5RHTPWJC7XS918X5MGD89HN744P564G8B0T", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "124085", 
+    "debt": "454787788", 
+    "id": "1178", 
+    "leftover-collateral": "0", 
+    "ratio": 601.0, 
+    "collateral-type": "STX-B", 
+    "created-at-block-height": "35457"
+  }, 
+  {
+    "collateral": 10000000000.0, 
+    "collateral-token": "STX", 
+    "owner": "SP28R593JKNFH8PTWNECR84A83EESKC3CC5P826R5", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "123915", 
+    "debt": "38922984", 
+    "id": "2531", 
+    "leftover-collateral": "0", 
+    "ratio": 12882.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "120649"
+  }, 
+  {
+    "collateral": 1256000000.0, 
+    "collateral-token": "STX", 
+    "owner": "SP24GE0F7NRQ8VFTQZ025N94STXW7PGSVBEH2ZRZ7", 
+    "is-liquidated": "False", 
+    "updated-at-block-height": "123907", 
+    "debt": "353772163", 
+    "id": "2496", 
+    "leftover-collateral": "0", 
+    "ratio": 178.0, 
+    "collateral-type": "STX-A", 
+    "created-at-block-height": "104379"
   }, 
   {
     "collateral": 3270000000.0, 
@@ -21,22 +229,9 @@
     "debt": "469350866", 
     "id": "2511", 
     "leftover-collateral": "0", 
-    "ratio": 360.0, 
+    "ratio": 349.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "106764"
-  }, 
-  {
-    "collateral": 5836816.0, 
-    "collateral-token": "xBTC", 
-    "owner": "SP34T0DS0ECN32J0JK891YP6JQ8VZDHJ98MPR74GX", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123790", 
-    "debt": "699926152", 
-    "id": "2372", 
-    "leftover-collateral": "0", 
-    "ratio": 233.0, 
-    "collateral-type": "XBTC-A", 
-    "created-at-block-height": "96596"
   }, 
   {
     "collateral": 9691425752.0, 
@@ -47,35 +242,9 @@
     "debt": "1368177489", 
     "id": "1622", 
     "leftover-collateral": "0", 
-    "ratio": 366.0, 
+    "ratio": 355.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "39844"
-  }, 
-  {
-    "collateral": 29000754.0, 
-    "collateral-token": "STX", 
-    "owner": "SP2AB8Q2MMPP1S2NM13N3NNBE0KA6CG94FK7MZ41H", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123737", 
-    "debt": "7406499", 
-    "id": "2528", 
-    "leftover-collateral": "0", 
-    "ratio": 202.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "118051"
-  }, 
-  {
-    "collateral": 45671540664.0, 
-    "collateral-token": "STX", 
-    "owner": "SP3X35B5W03X9Z57EB8H0EDPB5SP64B9VXEYJNM12", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123698", 
-    "debt": "3953886504", 
-    "id": "2443", 
-    "leftover-collateral": "0", 
-    "ratio": 597.0, 
-    "collateral-type": "STX-B", 
-    "created-at-block-height": "98896"
   }, 
   {
     "collateral": 56483561.0, 
@@ -86,7 +255,7 @@
     "debt": "1797596", 
     "id": "2217", 
     "leftover-collateral": "0", 
-    "ratio": 1624.0, 
+    "ratio": 1575.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "69958"
   }, 
@@ -99,7 +268,7 @@
     "debt": "3363738", 
     "id": "2244", 
     "leftover-collateral": "0", 
-    "ratio": 929.0, 
+    "ratio": 901.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "75162"
   }, 
@@ -112,7 +281,7 @@
     "debt": "33281831", 
     "id": "2240", 
     "leftover-collateral": "0", 
-    "ratio": 229.0, 
+    "ratio": 222.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "74183"
   }, 
@@ -125,7 +294,7 @@
     "debt": "13942554", 
     "id": "2259", 
     "leftover-collateral": "0", 
-    "ratio": 565.0, 
+    "ratio": 548.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "79965"
   }, 
@@ -138,22 +307,9 @@
     "debt": "76650867", 
     "id": "858", 
     "leftover-collateral": "0", 
-    "ratio": 1042.0, 
+    "ratio": 1011.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35089"
-  }, 
-  {
-    "collateral": 5448316405.0, 
-    "collateral-token": "STX", 
-    "owner": "SP381G5RHTPWJC7XS918X5MGD89HN744P564G8B0T", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123677", 
-    "debt": "460572947", 
-    "id": "1178", 
-    "leftover-collateral": "0", 
-    "ratio": 611.0, 
-    "collateral-type": "STX-B", 
-    "created-at-block-height": "35457"
   }, 
   {
     "collateral": 4576876540.0, 
@@ -164,7 +320,7 @@
     "debt": "365806084", 
     "id": "1370", 
     "leftover-collateral": "0", 
-    "ratio": 647.0, 
+    "ratio": 627.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "36935"
   }, 
@@ -177,22 +333,9 @@
     "debt": "371987298", 
     "id": "1803", 
     "leftover-collateral": "0", 
-    "ratio": 578.0, 
+    "ratio": 561.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "43296"
-  }, 
-  {
-    "collateral": 75500000000.0, 
-    "collateral-token": "STX", 
-    "owner": "SP39TAEWH0DYMK8DZ00D61DMA4D4N544HVGQHVJR7", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123672", 
-    "debt": "1025911128", 
-    "id": "2317", 
-    "leftover-collateral": "0", 
-    "ratio": 3804.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "92378"
   }, 
   {
     "collateral": 5006071301.0, 
@@ -203,7 +346,7 @@
     "debt": "534364766", 
     "id": "2152", 
     "leftover-collateral": "0", 
-    "ratio": 484.0, 
+    "ratio": 470.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "64143"
   }, 
@@ -216,7 +359,7 @@
     "debt": "11462166187", 
     "id": "105", 
     "leftover-collateral": "0", 
-    "ratio": 208.0, 
+    "ratio": 202.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34614"
   }, 
@@ -229,7 +372,7 @@
     "debt": "96933515", 
     "id": "954", 
     "leftover-collateral": "0", 
-    "ratio": 558.0, 
+    "ratio": 542.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35209"
   }, 
@@ -242,7 +385,7 @@
     "debt": "1462793981", 
     "id": "207", 
     "leftover-collateral": "0", 
-    "ratio": 385.0, 
+    "ratio": 373.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34627"
   }, 
@@ -268,7 +411,7 @@
     "debt": "10344617", 
     "id": "2406", 
     "leftover-collateral": "0", 
-    "ratio": 627.0, 
+    "ratio": 608.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "97290"
   }, 
@@ -281,7 +424,7 @@
     "debt": "79209877", 
     "id": "2486", 
     "leftover-collateral": "0", 
-    "ratio": 489.0, 
+    "ratio": 475.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "102103"
   }, 
@@ -294,22 +437,9 @@
     "debt": "588735515", 
     "id": "2223", 
     "leftover-collateral": "0", 
-    "ratio": 263.0, 
+    "ratio": 255.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "70459"
-  }, 
-  {
-    "collateral": 2050009757.0, 
-    "collateral-token": "STX", 
-    "owner": "SP208XD20NAHGXA2KE0442F9F03GY23MHEBC60C2K", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123620", 
-    "debt": "400195529", 
-    "id": "2243", 
-    "leftover-collateral": "0", 
-    "ratio": 265.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "74754"
   }, 
   {
     "collateral": 1550104320.0, 
@@ -320,7 +450,7 @@
     "debt": "304143354", 
     "id": "2235", 
     "leftover-collateral": "0", 
-    "ratio": 263.0, 
+    "ratio": 256.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "73161"
   }, 
@@ -333,7 +463,7 @@
     "debt": "1166366724", 
     "id": "2462", 
     "leftover-collateral": "0", 
-    "ratio": 177.0, 
+    "ratio": 172.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "100074"
   }, 
@@ -346,7 +476,7 @@
     "debt": "2018014332", 
     "id": "2476", 
     "leftover-collateral": "0", 
-    "ratio": 179.0, 
+    "ratio": 174.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "100464"
   }, 
@@ -359,7 +489,7 @@
     "debt": "1035202694", 
     "id": "2477", 
     "leftover-collateral": "0", 
-    "ratio": 175.0, 
+    "ratio": 170.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "100465"
   }, 
@@ -372,7 +502,7 @@
     "debt": "976756125", 
     "id": "1961", 
     "leftover-collateral": "0", 
-    "ratio": 288.0, 
+    "ratio": 279.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "50402"
   }, 
@@ -385,7 +515,7 @@
     "debt": "981674959", 
     "id": "2029", 
     "leftover-collateral": "0", 
-    "ratio": 286.0, 
+    "ratio": 278.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "53562"
   }, 
@@ -398,7 +528,7 @@
     "debt": "25273401256", 
     "id": "2118", 
     "leftover-collateral": "0", 
-    "ratio": 173.0, 
+    "ratio": 168.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "59630"
   }, 
@@ -411,7 +541,7 @@
     "debt": "12877501897", 
     "id": "2127", 
     "leftover-collateral": "0", 
-    "ratio": 173.0, 
+    "ratio": 167.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "60135"
   }, 
@@ -424,7 +554,7 @@
     "debt": "1002180741", 
     "id": "2135", 
     "leftover-collateral": "0", 
-    "ratio": 280.0, 
+    "ratio": 272.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "60980"
   }, 
@@ -437,7 +567,7 @@
     "debt": "3343325189", 
     "id": "2192", 
     "leftover-collateral": "0", 
-    "ratio": 172.0, 
+    "ratio": 167.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "66865"
   }, 
@@ -450,7 +580,7 @@
     "debt": "25328403643", 
     "id": "2113", 
     "leftover-collateral": "0", 
-    "ratio": 173.0, 
+    "ratio": 168.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "59420"
   }, 
@@ -463,7 +593,7 @@
     "debt": "43054753", 
     "id": "935", 
     "leftover-collateral": "0", 
-    "ratio": 227.0, 
+    "ratio": 220.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35188"
   }, 
@@ -476,7 +606,7 @@
     "debt": "7418129783", 
     "id": "2305", 
     "leftover-collateral": "0", 
-    "ratio": 211.0, 
+    "ratio": 204.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "90985"
   }, 
@@ -489,7 +619,7 @@
     "debt": "1324820755", 
     "id": "148", 
     "leftover-collateral": "0", 
-    "ratio": 229.0, 
+    "ratio": 222.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34619"
   }, 
@@ -502,7 +632,7 @@
     "debt": "3150510089", 
     "id": "2069", 
     "leftover-collateral": "0", 
-    "ratio": 274.0, 
+    "ratio": 266.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "55458"
   }, 
@@ -515,7 +645,7 @@
     "debt": "66991843", 
     "id": "2191", 
     "leftover-collateral": "0", 
-    "ratio": 385.0, 
+    "ratio": 373.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "66845"
   }, 
@@ -528,7 +658,7 @@
     "debt": "86660681378", 
     "id": "2315", 
     "leftover-collateral": "0", 
-    "ratio": 257.0, 
+    "ratio": 249.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "92342"
   }, 
@@ -541,7 +671,7 @@
     "debt": "4987881379", 
     "id": "2431", 
     "leftover-collateral": "0", 
-    "ratio": 2728.0, 
+    "ratio": 2647.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "98561"
   }, 
@@ -554,7 +684,7 @@
     "debt": "1800000000", 
     "id": "2046", 
     "leftover-collateral": "0", 
-    "ratio": 48813.0, 
+    "ratio": 47355.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "54454"
   }, 
@@ -567,7 +697,7 @@
     "debt": "157831118411", 
     "id": "124", 
     "leftover-collateral": "0", 
-    "ratio": 184.0, 
+    "ratio": 178.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34616"
   }, 
@@ -580,35 +710,9 @@
     "debt": "11080703360", 
     "id": "218", 
     "leftover-collateral": "0", 
-    "ratio": 522.0, 
+    "ratio": 507.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34629"
-  }, 
-  {
-    "collateral": 30190003191.0, 
-    "collateral-token": "STX", 
-    "owner": "SP2M7K3YM8813404G1R7AXV106CPWH0Z5ZA80JVAV", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123300", 
-    "debt": "871165", 
-    "id": "2328", 
-    "leftover-collateral": "0", 
-    "ratio": 1791110.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "95277"
-  }, 
-  {
-    "collateral": 20400350981.0, 
-    "collateral-token": "STX", 
-    "owner": "SP2VY1TVZWW1ANEFDB28T50EJ06H4M4G4YASNDHCE", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123287", 
-    "debt": "1964576405", 
-    "id": "1293", 
-    "leftover-collateral": "0", 
-    "ratio": 537.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "36193"
   }, 
   {
     "collateral": 320000000.0, 
@@ -619,22 +723,9 @@
     "debt": "90315189", 
     "id": "2536", 
     "leftover-collateral": "0", 
-    "ratio": 183.0, 
+    "ratio": 178.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "122757"
-  }, 
-  {
-    "collateral": 93915.0, 
-    "collateral-token": "xBTC", 
-    "owner": "SP2AB8Q2MMPP1S2NM13N3NNBE0KA6CG94FK7MZ41H", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "123226", 
-    "debt": "12149763", 
-    "id": "2504", 
-    "leftover-collateral": "0", 
-    "ratio": 216.0, 
-    "collateral-type": "XBTC-A", 
-    "created-at-block-height": "105043"
   }, 
   {
     "collateral": 20081103001.0, 
@@ -658,7 +749,7 @@
     "debt": "4978149961", 
     "id": "2480", 
     "leftover-collateral": "0", 
-    "ratio": 265.0, 
+    "ratio": 257.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "100865"
   }, 
@@ -671,7 +762,7 @@
     "debt": "25005000000", 
     "id": "2524", 
     "leftover-collateral": "0", 
-    "ratio": 257.0, 
+    "ratio": 248.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "115442"
   }, 
@@ -684,7 +775,7 @@
     "debt": "580000000", 
     "id": "2537", 
     "leftover-collateral": "0", 
-    "ratio": 516.0, 
+    "ratio": 497.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "123059"
   }, 
@@ -697,22 +788,9 @@
     "debt": "6061004090", 
     "id": "24", 
     "leftover-collateral": "0", 
-    "ratio": 251.0, 
+    "ratio": 244.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34495"
-  }, 
-  {
-    "collateral": 171498.0, 
-    "collateral-token": "xBTC", 
-    "owner": "SP2AB8Q2MMPP1S2NM13N3NNBE0KA6CG94FK7MZ41H", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "122889", 
-    "debt": "25028018", 
-    "id": "2514", 
-    "leftover-collateral": "0", 
-    "ratio": 191.0, 
-    "collateral-type": "XBTC-A", 
-    "created-at-block-height": "110957"
   }, 
   {
     "collateral": 500385912.0, 
@@ -723,7 +801,7 @@
     "debt": "38261307", 
     "id": "417", 
     "leftover-collateral": "0", 
-    "ratio": 676.0, 
+    "ratio": 656.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34686"
   }, 
@@ -736,7 +814,7 @@
     "debt": "277224049797", 
     "id": "2110", 
     "leftover-collateral": "0", 
-    "ratio": 199.0, 
+    "ratio": 193.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "59037"
   }, 
@@ -749,7 +827,7 @@
     "debt": "25228814", 
     "id": "2205", 
     "leftover-collateral": "0", 
-    "ratio": 819.0, 
+    "ratio": 795.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "68869"
   }, 
@@ -762,7 +840,7 @@
     "debt": "32255628480", 
     "id": "1279", 
     "leftover-collateral": "0", 
-    "ratio": 274.0, 
+    "ratio": 265.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "36094"
   }, 
@@ -775,7 +853,7 @@
     "debt": "2403387", 
     "id": "2535", 
     "leftover-collateral": "0", 
-    "ratio": 215.0, 
+    "ratio": 209.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "122120"
   }, 
@@ -801,35 +879,9 @@
     "debt": "930874313", 
     "id": "2089", 
     "leftover-collateral": "0", 
-    "ratio": 246.0, 
+    "ratio": 239.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "56532"
-  }, 
-  {
-    "collateral": 1256000000.0, 
-    "collateral-token": "STX", 
-    "owner": "SP24GE0F7NRQ8VFTQZ025N94STXW7PGSVBEH2ZRZ7", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "122454", 
-    "debt": "355891156", 
-    "id": "2496", 
-    "leftover-collateral": "0", 
-    "ratio": 182.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "104379"
-  }, 
-  {
-    "collateral": 10079167997.0, 
-    "collateral-token": "STX", 
-    "owner": "SPV48Q8E5WP4TCQ63E9TV6KF9R4HP01Z8WS3FBTG", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "122437", 
-    "debt": "626190412", 
-    "id": "2238", 
-    "leftover-collateral": "0", 
-    "ratio": 832.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "73714"
   }, 
   {
     "collateral": 9587420.0, 
@@ -840,7 +892,7 @@
     "debt": "2254505", 
     "id": "2534", 
     "leftover-collateral": "0", 
-    "ratio": 220.0, 
+    "ratio": 213.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "122119"
   }, 
@@ -853,7 +905,7 @@
     "debt": "98604863", 
     "id": "2393", 
     "leftover-collateral": "0", 
-    "ratio": 551.0, 
+    "ratio": 534.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96923"
   }, 
@@ -866,7 +918,7 @@
     "debt": "550785714", 
     "id": "2320", 
     "leftover-collateral": "0", 
-    "ratio": 751.0, 
+    "ratio": 728.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "92968"
   }, 
@@ -879,7 +931,7 @@
     "debt": "139577903", 
     "id": "2447", 
     "leftover-collateral": "0", 
-    "ratio": 1707.0, 
+    "ratio": 1656.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "99131"
   }, 
@@ -892,22 +944,9 @@
     "debt": "434435374", 
     "id": "2495", 
     "leftover-collateral": "0", 
-    "ratio": 171.0, 
+    "ratio": 166.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "104365"
-  }, 
-  {
-    "collateral": 10225000000.0, 
-    "collateral-token": "STX", 
-    "owner": "SP18JYK86ZBZSZR8V4ZT0TXVAS2YXDN64JED02RDG", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "122157", 
-    "debt": "2119961128", 
-    "id": "2451", 
-    "leftover-collateral": "0", 
-    "ratio": 249.0, 
-    "collateral-type": "STX-B", 
-    "created-at-block-height": "99173"
   }, 
   {
     "collateral": 1046169342.0, 
@@ -931,7 +970,7 @@
     "debt": "200000000", 
     "id": "2533", 
     "leftover-collateral": "0", 
-    "ratio": 233.0, 
+    "ratio": 226.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "122047"
   }, 
@@ -944,7 +983,7 @@
     "debt": "4447490226", 
     "id": "2453", 
     "leftover-collateral": "0", 
-    "ratio": 174.0, 
+    "ratio": 169.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "99214"
   }, 
@@ -970,7 +1009,7 @@
     "debt": "21000000000", 
     "id": "2529", 
     "leftover-collateral": "0", 
-    "ratio": 298.0, 
+    "ratio": 287.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "119555"
   }, 
@@ -983,35 +1022,9 @@
     "debt": "4460290", 
     "id": "1349", 
     "leftover-collateral": "0", 
-    "ratio": 2239.0, 
+    "ratio": 2172.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "36703"
-  }, 
-  {
-    "collateral": 5981397078.0, 
-    "collateral-token": "STX", 
-    "owner": "SP3RBA1QKQCQYDSN7EF4V9M1Z038PZ17ZZEK3DRVW", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "121541", 
-    "debt": "641319643", 
-    "id": "940", 
-    "leftover-collateral": "0", 
-    "ratio": 482.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "35192"
-  }, 
-  {
-    "collateral": 202926549917.0, 
-    "collateral-token": "STX", 
-    "owner": "SP3N8ZJBY5R6V4QNW7GR7GA6VG73WAYXAFPEMF69X", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "121469", 
-    "debt": "40084582210", 
-    "id": "1784", 
-    "leftover-collateral": "0", 
-    "ratio": 262.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "42917"
   }, 
   {
     "collateral": 160000000.0, 
@@ -1022,7 +1035,7 @@
     "debt": "35000000", 
     "id": "2532", 
     "leftover-collateral": "0", 
-    "ratio": 236.0, 
+    "ratio": 229.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "121404"
   }, 
@@ -1035,7 +1048,7 @@
     "debt": "1595946716", 
     "id": "2448", 
     "leftover-collateral": "0", 
-    "ratio": 409.0, 
+    "ratio": 397.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "99140"
   }, 
@@ -1048,7 +1061,7 @@
     "debt": "2794519", 
     "id": "1886", 
     "leftover-collateral": "0", 
-    "ratio": 7202.0, 
+    "ratio": 6987.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "46158"
   }, 
@@ -1061,7 +1074,7 @@
     "debt": "1100007", 
     "id": "1933", 
     "leftover-collateral": "0", 
-    "ratio": 18039.0, 
+    "ratio": 17500.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "47970"
   }, 
@@ -1087,22 +1100,9 @@
     "debt": "3902802", 
     "id": "1733", 
     "leftover-collateral": "0", 
-    "ratio": 5149.0, 
+    "ratio": 4995.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "41734"
-  }, 
-  {
-    "collateral": 10000000000.0, 
-    "collateral-token": "STX", 
-    "owner": "SP28R593JKNFH8PTWNECR84A83EESKC3CC5P826R5", 
-    "is-liquidated": "False", 
-    "updated-at-block-height": "121180", 
-    "debt": "50603854", 
-    "id": "2531", 
-    "leftover-collateral": "0", 
-    "ratio": 10214.0, 
-    "collateral-type": "STX-A", 
-    "created-at-block-height": "120649"
   }, 
   {
     "collateral": 779196118.0, 
@@ -1113,7 +1113,7 @@
     "debt": "59408242", 
     "id": "366", 
     "leftover-collateral": "0", 
-    "ratio": 678.0, 
+    "ratio": 658.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34669"
   }, 
@@ -1126,7 +1126,7 @@
     "debt": "15999223", 
     "id": "2427", 
     "leftover-collateral": "0", 
-    "ratio": 327.0, 
+    "ratio": 317.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "98472"
   }, 
@@ -1139,7 +1139,7 @@
     "debt": "19847451648", 
     "id": "2485", 
     "leftover-collateral": "0", 
-    "ratio": 193.0, 
+    "ratio": 188.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "101862"
   }, 
@@ -1152,7 +1152,7 @@
     "debt": "4269245141", 
     "id": "1883", 
     "leftover-collateral": "0", 
-    "ratio": 217.0, 
+    "ratio": 210.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "46083"
   }, 
@@ -1165,7 +1165,7 @@
     "debt": "9207439197", 
     "id": "2222", 
     "leftover-collateral": "0", 
-    "ratio": 169.0, 
+    "ratio": 164.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "70447"
   }, 
@@ -1178,7 +1178,7 @@
     "debt": "7160661133", 
     "id": "2034", 
     "leftover-collateral": "0", 
-    "ratio": 273.0, 
+    "ratio": 263.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "53990"
   }, 
@@ -1191,7 +1191,7 @@
     "debt": "1055231675", 
     "id": "2138", 
     "leftover-collateral": "0", 
-    "ratio": 317.0, 
+    "ratio": 305.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "61964"
   }, 
@@ -1204,7 +1204,7 @@
     "debt": "233904877", 
     "id": "2140", 
     "leftover-collateral": "0", 
-    "ratio": 260.0, 
+    "ratio": 252.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "62587"
   }, 
@@ -1230,7 +1230,7 @@
     "debt": "596500", 
     "id": "946", 
     "leftover-collateral": "0", 
-    "ratio": 208.0, 
+    "ratio": 202.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35196"
   }, 
@@ -1243,7 +1243,7 @@
     "debt": "1481948", 
     "id": "2421", 
     "leftover-collateral": "0", 
-    "ratio": 209.0, 
+    "ratio": 203.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "98339"
   }, 
@@ -1256,7 +1256,7 @@
     "debt": "4089005836", 
     "id": "2334", 
     "leftover-collateral": "0", 
-    "ratio": 330.0, 
+    "ratio": 320.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "95925"
   }, 
@@ -1269,7 +1269,7 @@
     "debt": "789163866", 
     "id": "73", 
     "leftover-collateral": "0", 
-    "ratio": 313.0, 
+    "ratio": 304.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34609"
   }, 
@@ -1282,7 +1282,7 @@
     "debt": "335874312", 
     "id": "458", 
     "leftover-collateral": "0", 
-    "ratio": 1237.0, 
+    "ratio": 1200.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34708"
   }, 
@@ -1295,7 +1295,7 @@
     "debt": "890287034", 
     "id": "1923", 
     "leftover-collateral": "0", 
-    "ratio": 623.0, 
+    "ratio": 604.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "47329"
   }, 
@@ -1308,7 +1308,7 @@
     "debt": "116603720", 
     "id": "1828", 
     "leftover-collateral": "0", 
-    "ratio": 618.0, 
+    "ratio": 600.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "43899"
   }, 
@@ -1321,7 +1321,7 @@
     "debt": "1892540565", 
     "id": "2377", 
     "leftover-collateral": "0", 
-    "ratio": 356.0, 
+    "ratio": 345.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96682"
   }, 
@@ -1334,7 +1334,7 @@
     "debt": "7997796965", 
     "id": "2513", 
     "leftover-collateral": "0", 
-    "ratio": 207.0, 
+    "ratio": 201.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "110091"
   }, 
@@ -1347,7 +1347,7 @@
     "debt": "32843729985", 
     "id": "2450", 
     "leftover-collateral": "0", 
-    "ratio": 190.0, 
+    "ratio": 185.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "99152"
   }, 
@@ -1360,7 +1360,7 @@
     "debt": "60000000", 
     "id": "2422", 
     "leftover-collateral": "0", 
-    "ratio": 210.0, 
+    "ratio": 204.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "98339"
   }, 
@@ -1373,7 +1373,7 @@
     "debt": "97887075", 
     "id": "2428", 
     "leftover-collateral": "0", 
-    "ratio": 191.0, 
+    "ratio": 184.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "98475"
   }, 
@@ -1386,7 +1386,7 @@
     "debt": "949937293", 
     "id": "2082", 
     "leftover-collateral": "0", 
-    "ratio": 206.0, 
+    "ratio": 200.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "55987"
   }, 
@@ -1399,7 +1399,7 @@
     "debt": "42743510732", 
     "id": "844", 
     "leftover-collateral": "0", 
-    "ratio": 232.0, 
+    "ratio": 225.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "35073"
   }, 
@@ -1412,7 +1412,7 @@
     "debt": "40391612532", 
     "id": "2288", 
     "leftover-collateral": "0", 
-    "ratio": 246.0, 
+    "ratio": 238.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "86850"
   }, 
@@ -1425,7 +1425,7 @@
     "debt": "26337070676", 
     "id": "2290", 
     "leftover-collateral": "0", 
-    "ratio": 235.0, 
+    "ratio": 228.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "87037"
   }, 
@@ -1438,7 +1438,7 @@
     "debt": "13157731255", 
     "id": "2293", 
     "leftover-collateral": "0", 
-    "ratio": 236.0, 
+    "ratio": 229.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "87440"
   }, 
@@ -1451,7 +1451,7 @@
     "debt": "7814153139", 
     "id": "1082", 
     "leftover-collateral": "0", 
-    "ratio": 184.0, 
+    "ratio": 179.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35347"
   }, 
@@ -1464,7 +1464,7 @@
     "debt": "1603734318", 
     "id": "2254", 
     "leftover-collateral": "0", 
-    "ratio": 742.0, 
+    "ratio": 719.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "78517"
   }, 
@@ -1477,7 +1477,7 @@
     "debt": "18000000", 
     "id": "2527", 
     "leftover-collateral": "0", 
-    "ratio": 172.0, 
+    "ratio": 167.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "117157"
   }, 
@@ -1503,7 +1503,7 @@
     "debt": "2664439687", 
     "id": "469", 
     "leftover-collateral": "0", 
-    "ratio": 489.0, 
+    "ratio": 475.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34715"
   }, 
@@ -1516,7 +1516,7 @@
     "debt": "1443303860", 
     "id": "637", 
     "leftover-collateral": "0", 
-    "ratio": 479.0, 
+    "ratio": 464.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34841"
   }, 
@@ -1529,7 +1529,7 @@
     "debt": "56821563", 
     "id": "1533", 
     "leftover-collateral": "0", 
-    "ratio": 777.0, 
+    "ratio": 754.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "38497"
   }, 
@@ -1542,7 +1542,7 @@
     "debt": "230000000", 
     "id": "2525", 
     "leftover-collateral": "0", 
-    "ratio": 317.0, 
+    "ratio": 305.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "115532"
   }, 
@@ -1568,7 +1568,7 @@
     "debt": "397217989", 
     "id": "862", 
     "leftover-collateral": "0", 
-    "ratio": 463.0, 
+    "ratio": 449.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35090"
   }, 
@@ -1594,7 +1594,7 @@
     "debt": "13915528", 
     "id": "2376", 
     "leftover-collateral": "0", 
-    "ratio": 411.0, 
+    "ratio": 399.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96638"
   }, 
@@ -1607,7 +1607,7 @@
     "debt": "436394226", 
     "id": "2358", 
     "leftover-collateral": "0", 
-    "ratio": 226.0, 
+    "ratio": 219.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "96305"
   }, 
@@ -1620,7 +1620,7 @@
     "debt": "601177549", 
     "id": "2324", 
     "leftover-collateral": "0", 
-    "ratio": 159.0, 
+    "ratio": 154.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "94386"
   }, 
@@ -1633,7 +1633,7 @@
     "debt": "36260359", 
     "id": "1867", 
     "leftover-collateral": "0", 
-    "ratio": 2366.0, 
+    "ratio": 2295.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "44877"
   }, 
@@ -1646,7 +1646,7 @@
     "debt": "1301269255", 
     "id": "2008", 
     "leftover-collateral": "0", 
-    "ratio": 553.0, 
+    "ratio": 536.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "52594"
   }, 
@@ -1659,7 +1659,7 @@
     "debt": "12855688239", 
     "id": "2449", 
     "leftover-collateral": "0", 
-    "ratio": 161.0, 
+    "ratio": 155.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "99151"
   }, 
@@ -1672,7 +1672,7 @@
     "debt": "34186750", 
     "id": "2381", 
     "leftover-collateral": "0", 
-    "ratio": 386.0, 
+    "ratio": 374.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96757"
   }, 
@@ -1698,7 +1698,7 @@
     "debt": "3000000", 
     "id": "2518", 
     "leftover-collateral": "0", 
-    "ratio": 172.0, 
+    "ratio": 167.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "112621"
   }, 
@@ -1724,7 +1724,7 @@
     "debt": "9940183768", 
     "id": "2464", 
     "leftover-collateral": "0", 
-    "ratio": 384.0, 
+    "ratio": 356.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "100128"
   }, 
@@ -1750,7 +1750,7 @@
     "debt": "12224389", 
     "id": "867", 
     "leftover-collateral": "0", 
-    "ratio": 1304.0, 
+    "ratio": 1265.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35097"
   }, 
@@ -1776,7 +1776,7 @@
     "debt": "21090", 
     "id": "2470", 
     "leftover-collateral": "0", 
-    "ratio": 160.0, 
+    "ratio": 156.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "100258"
   }, 
@@ -1789,7 +1789,7 @@
     "debt": "4936", 
     "id": "2508", 
     "leftover-collateral": "0", 
-    "ratio": 209.0, 
+    "ratio": 195.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "105769"
   }, 
@@ -1802,7 +1802,7 @@
     "debt": "9625", 
     "id": "2503", 
     "leftover-collateral": "0", 
-    "ratio": 2685.0, 
+    "ratio": 2605.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "104762"
   }, 
@@ -1815,7 +1815,7 @@
     "debt": "5000000", 
     "id": "2500", 
     "leftover-collateral": "0", 
-    "ratio": 191.0, 
+    "ratio": 184.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "104394"
   }, 
@@ -1828,7 +1828,7 @@
     "debt": "14001", 
     "id": "2436", 
     "leftover-collateral": "0", 
-    "ratio": 304.0, 
+    "ratio": 283.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "98676"
   }, 
@@ -1841,7 +1841,7 @@
     "debt": "98703710", 
     "id": "1906", 
     "leftover-collateral": "0", 
-    "ratio": 431.0, 
+    "ratio": 418.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "46711"
   }, 
@@ -1854,7 +1854,7 @@
     "debt": "105411054", 
     "id": "1938", 
     "leftover-collateral": "0", 
-    "ratio": 382.0, 
+    "ratio": 370.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "48213"
   }, 
@@ -1867,7 +1867,7 @@
     "debt": "526904119", 
     "id": "2142", 
     "leftover-collateral": "0", 
-    "ratio": 399.0, 
+    "ratio": 387.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "62861"
   }, 
@@ -1880,7 +1880,7 @@
     "debt": "1059", 
     "id": "2018", 
     "leftover-collateral": "0", 
-    "ratio": 427.0, 
+    "ratio": 414.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "53026"
   }, 
@@ -1893,7 +1893,7 @@
     "debt": "112700", 
     "id": "2352", 
     "leftover-collateral": "0", 
-    "ratio": 4123.0, 
+    "ratio": 4000.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "96264"
   }, 
@@ -1906,7 +1906,7 @@
     "debt": "28231813", 
     "id": "44", 
     "leftover-collateral": "0", 
-    "ratio": 168467.0, 
+    "ratio": 163433.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34572"
   }, 
@@ -1919,7 +1919,7 @@
     "debt": "15291814979", 
     "id": "2148", 
     "leftover-collateral": "0", 
-    "ratio": 173.0, 
+    "ratio": 167.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "63786"
   }, 
@@ -1932,7 +1932,7 @@
     "debt": "14252837", 
     "id": "670", 
     "leftover-collateral": "0", 
-    "ratio": 484.0, 
+    "ratio": 469.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34882"
   }, 
@@ -1945,7 +1945,7 @@
     "debt": "16047135", 
     "id": "2251", 
     "leftover-collateral": "0", 
-    "ratio": 322.0, 
+    "ratio": 312.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "77268"
   }, 
@@ -2010,7 +2010,7 @@
     "debt": "10000000", 
     "id": "2483", 
     "leftover-collateral": "0", 
-    "ratio": 258.0, 
+    "ratio": 251.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "101482"
   }, 
@@ -2023,7 +2023,7 @@
     "debt": "28", 
     "id": "2360", 
     "leftover-collateral": "0", 
-    "ratio": 46304.0, 
+    "ratio": 43012.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "96312"
   }, 
@@ -2036,7 +2036,7 @@
     "debt": "191692998", 
     "id": "2478", 
     "leftover-collateral": "0", 
-    "ratio": 177.0, 
+    "ratio": 171.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "100488"
   }, 
@@ -2062,7 +2062,7 @@
     "debt": "35", 
     "id": "2391", 
     "leftover-collateral": "0", 
-    "ratio": 1954324.0, 
+    "ratio": 1815371.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "96906"
   }, 
@@ -2075,7 +2075,7 @@
     "debt": "1654425", 
     "id": "2424", 
     "leftover-collateral": "0", 
-    "ratio": 209.0, 
+    "ratio": 194.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "98342"
   }, 
@@ -2088,7 +2088,7 @@
     "debt": "2800865", 
     "id": "2433", 
     "leftover-collateral": "0", 
-    "ratio": 197.0, 
+    "ratio": 183.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "98579"
   }, 
@@ -2101,7 +2101,7 @@
     "debt": "348459678", 
     "id": "959", 
     "leftover-collateral": "0", 
-    "ratio": 1240.0, 
+    "ratio": 1203.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35227"
   }, 
@@ -2114,7 +2114,7 @@
     "debt": "600000000", 
     "id": "967", 
     "leftover-collateral": "0", 
-    "ratio": 720.0, 
+    "ratio": 699.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35232"
   }, 
@@ -2140,7 +2140,7 @@
     "debt": "2050844710", 
     "id": "2161", 
     "leftover-collateral": "0", 
-    "ratio": 204.0, 
+    "ratio": 196.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "64162"
   }, 
@@ -2153,7 +2153,7 @@
     "debt": "26000000", 
     "id": "2438", 
     "leftover-collateral": "0", 
-    "ratio": 183.0, 
+    "ratio": 170.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "98852"
   }, 
@@ -2166,7 +2166,7 @@
     "debt": "251116707", 
     "id": "2199", 
     "leftover-collateral": "0", 
-    "ratio": 229.0, 
+    "ratio": 221.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "68381"
   }, 
@@ -2179,7 +2179,7 @@
     "debt": "46368543", 
     "id": "2382", 
     "leftover-collateral": "0", 
-    "ratio": 266.0, 
+    "ratio": 256.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "96776"
   }, 
@@ -2192,7 +2192,7 @@
     "debt": "283290", 
     "id": "2415", 
     "leftover-collateral": "0", 
-    "ratio": 162.0, 
+    "ratio": 157.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "97850"
   }, 
@@ -2205,7 +2205,7 @@
     "debt": "3000000", 
     "id": "2417", 
     "leftover-collateral": "0", 
-    "ratio": 172.0, 
+    "ratio": 167.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "98082"
   }, 
@@ -2218,7 +2218,7 @@
     "debt": "1144", 
     "id": "2413", 
     "leftover-collateral": "0", 
-    "ratio": 176.0, 
+    "ratio": 171.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "97763"
   }, 
@@ -2231,7 +2231,7 @@
     "debt": "355644052", 
     "id": "1926", 
     "leftover-collateral": "0", 
-    "ratio": 391.0, 
+    "ratio": 379.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "47400"
   }, 
@@ -2244,7 +2244,7 @@
     "debt": "32495", 
     "id": "2344", 
     "leftover-collateral": "0", 
-    "ratio": 1591.0, 
+    "ratio": 1543.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "96191"
   }, 
@@ -2257,7 +2257,7 @@
     "debt": "20000000", 
     "id": "2291", 
     "leftover-collateral": "0", 
-    "ratio": 256.0, 
+    "ratio": 249.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "87303"
   }, 
@@ -2270,7 +2270,7 @@
     "debt": "2031856", 
     "id": "2383", 
     "leftover-collateral": "0", 
-    "ratio": 337.0, 
+    "ratio": 327.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "96795"
   }, 
@@ -2283,7 +2283,7 @@
     "debt": "75000000", 
     "id": "2402", 
     "leftover-collateral": "0", 
-    "ratio": 358.0, 
+    "ratio": 333.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "97098"
   }, 
@@ -2296,7 +2296,7 @@
     "debt": "1050920", 
     "id": "2373", 
     "leftover-collateral": "0", 
-    "ratio": 210.0, 
+    "ratio": 195.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "96606"
   }, 
@@ -2309,7 +2309,7 @@
     "debt": "800000000", 
     "id": "2399", 
     "leftover-collateral": "0", 
-    "ratio": 254.0, 
+    "ratio": 246.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96997"
   }, 
@@ -2322,7 +2322,7 @@
     "debt": "490845", 
     "id": "2385", 
     "leftover-collateral": "0", 
-    "ratio": 5402.0, 
+    "ratio": 5240.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96837"
   }, 
@@ -2348,7 +2348,7 @@
     "debt": "6242891", 
     "id": "175", 
     "leftover-collateral": "0", 
-    "ratio": 1709.0, 
+    "ratio": 1658.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34623"
   }, 
@@ -2361,7 +2361,7 @@
     "debt": "5000000", 
     "id": "2365", 
     "leftover-collateral": "0", 
-    "ratio": 341.0, 
+    "ratio": 331.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96452"
   }, 
@@ -2387,7 +2387,7 @@
     "debt": "5000000", 
     "id": "2361", 
     "leftover-collateral": "0", 
-    "ratio": 207.0, 
+    "ratio": 201.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "96321"
   }, 
@@ -2400,7 +2400,7 @@
     "debt": "228", 
     "id": "2345", 
     "leftover-collateral": "0", 
-    "ratio": 292.0, 
+    "ratio": 271.0, 
     "collateral-type": "ATALEX-A", 
     "created-at-block-height": "96192"
   }, 
@@ -2413,7 +2413,7 @@
     "debt": "13672512744", 
     "id": "2016", 
     "leftover-collateral": "0", 
-    "ratio": 289.0, 
+    "ratio": 278.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "52880"
   }, 
@@ -2426,7 +2426,7 @@
     "debt": "2902", 
     "id": "2336", 
     "leftover-collateral": "0", 
-    "ratio": 17810.0, 
+    "ratio": 17278.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "95928"
   }, 
@@ -2439,7 +2439,7 @@
     "debt": "100000000", 
     "id": "2338", 
     "leftover-collateral": "0", 
-    "ratio": 287.0, 
+    "ratio": 278.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "95948"
   }, 
@@ -2491,7 +2491,7 @@
     "debt": "51000000", 
     "id": "2327", 
     "leftover-collateral": "0", 
-    "ratio": 355.0, 
+    "ratio": 344.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "95244"
   }, 
@@ -2504,7 +2504,7 @@
     "debt": "13000000", 
     "id": "2326", 
     "leftover-collateral": "0", 
-    "ratio": 258.0, 
+    "ratio": 248.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "94880"
   }, 
@@ -2517,7 +2517,7 @@
     "debt": "1000000", 
     "id": "2322", 
     "leftover-collateral": "0", 
-    "ratio": 517.0, 
+    "ratio": 501.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "93753"
   }, 
@@ -2543,7 +2543,7 @@
     "debt": "627524472", 
     "id": "1054", 
     "leftover-collateral": "0", 
-    "ratio": 501.0, 
+    "ratio": 486.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35328"
   }, 
@@ -2556,7 +2556,7 @@
     "debt": "2550979", 
     "id": "1", 
     "leftover-collateral": "0", 
-    "ratio": 608.0, 
+    "ratio": 590.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34307"
   }, 
@@ -2569,7 +2569,7 @@
     "debt": "49", 
     "id": "550", 
     "leftover-collateral": "0", 
-    "ratio": 407.0, 
+    "ratio": 395.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34766"
   }, 
@@ -2582,7 +2582,7 @@
     "debt": "3104", 
     "id": "1910", 
     "leftover-collateral": "0", 
-    "ratio": 61958630.0, 
+    "ratio": 60107222.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "46855"
   }, 
@@ -2595,7 +2595,7 @@
     "debt": "12620", 
     "id": "1225", 
     "leftover-collateral": "0", 
-    "ratio": 942892.0, 
+    "ratio": 914718.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "35595"
   }, 
@@ -2608,7 +2608,7 @@
     "debt": "462222", 
     "id": "2278", 
     "leftover-collateral": "0", 
-    "ratio": 409.0, 
+    "ratio": 397.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "84323"
   }, 
@@ -2621,7 +2621,7 @@
     "debt": "31777608", 
     "id": "343", 
     "leftover-collateral": "0", 
-    "ratio": 406.0, 
+    "ratio": 393.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34663"
   }, 
@@ -2634,7 +2634,7 @@
     "debt": "15842860", 
     "id": "2020", 
     "leftover-collateral": "0", 
-    "ratio": 35207.0, 
+    "ratio": 33905.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "53226"
   }, 
@@ -2647,7 +2647,7 @@
     "debt": "2101584888", 
     "id": "960", 
     "leftover-collateral": "0", 
-    "ratio": 401.0, 
+    "ratio": 389.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35228"
   }, 
@@ -2660,7 +2660,7 @@
     "debt": "397112962", 
     "id": "1665", 
     "leftover-collateral": "0", 
-    "ratio": 678.0, 
+    "ratio": 658.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "40285"
   }, 
@@ -2673,7 +2673,7 @@
     "debt": "138426670", 
     "id": "883", 
     "leftover-collateral": "0", 
-    "ratio": 958.0, 
+    "ratio": 929.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35116"
   }, 
@@ -2686,7 +2686,7 @@
     "debt": "3544488", 
     "id": "1977", 
     "leftover-collateral": "0", 
-    "ratio": 8749.0, 
+    "ratio": 8488.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "51745"
   }, 
@@ -2699,7 +2699,7 @@
     "debt": "7426072", 
     "id": "307", 
     "leftover-collateral": "0", 
-    "ratio": 1253.0, 
+    "ratio": 1215.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34650"
   }, 
@@ -2712,7 +2712,7 @@
     "debt": "708779226", 
     "id": "1250", 
     "leftover-collateral": "0", 
-    "ratio": 383.0, 
+    "ratio": 372.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35718"
   }, 
@@ -2725,7 +2725,7 @@
     "debt": "41621772", 
     "id": "200", 
     "leftover-collateral": "0", 
-    "ratio": 341.0, 
+    "ratio": 331.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34626"
   }, 
@@ -2738,7 +2738,7 @@
     "debt": "79582545", 
     "id": "598", 
     "leftover-collateral": "0", 
-    "ratio": 325.0, 
+    "ratio": 315.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34806"
   }, 
@@ -2751,7 +2751,7 @@
     "debt": "1593490306", 
     "id": "1329", 
     "leftover-collateral": "0", 
-    "ratio": 601.0, 
+    "ratio": 583.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "36516"
   }, 
@@ -2777,7 +2777,7 @@
     "debt": "200816", 
     "id": "2260", 
     "leftover-collateral": "0", 
-    "ratio": 241.0, 
+    "ratio": 232.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "81021"
   }, 
@@ -2790,7 +2790,7 @@
     "debt": "107840872", 
     "id": "1023", 
     "leftover-collateral": "0", 
-    "ratio": 429.0, 
+    "ratio": 416.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35302"
   }, 
@@ -2803,7 +2803,7 @@
     "debt": "5451474", 
     "id": "1674", 
     "leftover-collateral": "0", 
-    "ratio": 284.0, 
+    "ratio": 276.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "40450"
   }, 
@@ -2842,7 +2842,7 @@
     "debt": "99772877", 
     "id": "367", 
     "leftover-collateral": "0", 
-    "ratio": 479.0, 
+    "ratio": 465.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34669"
   }, 
@@ -2855,7 +2855,7 @@
     "debt": "16200", 
     "id": "2083", 
     "leftover-collateral": "0", 
-    "ratio": 128753.0, 
+    "ratio": 124906.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "56068"
   }, 
@@ -2868,7 +2868,7 @@
     "debt": "9953397", 
     "id": "2011", 
     "leftover-collateral": "0", 
-    "ratio": 779.0, 
+    "ratio": 756.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "52655"
   }, 
@@ -2881,7 +2881,7 @@
     "debt": "1", 
     "id": "1942", 
     "leftover-collateral": "0", 
-    "ratio": 258422000.0, 
+    "ratio": 250700000.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "48812"
   }, 
@@ -2907,7 +2907,7 @@
     "debt": "698", 
     "id": "2242", 
     "leftover-collateral": "0", 
-    "ratio": 3702321.0, 
+    "ratio": 3591691.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "74561"
   }, 
@@ -2920,7 +2920,7 @@
     "debt": "6000000", 
     "id": "2231", 
     "leftover-collateral": "0", 
-    "ratio": 389.0, 
+    "ratio": 375.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "72158"
   }, 
@@ -2946,7 +2946,7 @@
     "debt": "2000000", 
     "id": "2202", 
     "leftover-collateral": "0", 
-    "ratio": 434.0, 
+    "ratio": 418.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "68782"
   }, 
@@ -2972,7 +2972,7 @@
     "debt": "55744", 
     "id": "2115", 
     "leftover-collateral": "0", 
-    "ratio": 3972.0, 
+    "ratio": 3853.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "59474"
   }, 
@@ -2998,7 +2998,7 @@
     "debt": "12067", 
     "id": "2095", 
     "leftover-collateral": "0", 
-    "ratio": 128903.0, 
+    "ratio": 125051.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "57573"
   }, 
@@ -3011,7 +3011,7 @@
     "debt": "3803011", 
     "id": "948", 
     "leftover-collateral": "0", 
-    "ratio": 1122.0, 
+    "ratio": 1089.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35198"
   }, 
@@ -3024,7 +3024,7 @@
     "debt": "1401682892", 
     "id": "394", 
     "leftover-collateral": "0", 
-    "ratio": 381.0, 
+    "ratio": 369.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34678"
   }, 
@@ -3037,7 +3037,7 @@
     "debt": "81465488", 
     "id": "403", 
     "leftover-collateral": "0", 
-    "ratio": 388.0, 
+    "ratio": 377.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34681"
   }, 
@@ -3050,7 +3050,7 @@
     "debt": "8000", 
     "id": "11", 
     "leftover-collateral": "0", 
-    "ratio": 25842.0, 
+    "ratio": 25070.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34323"
   }, 
@@ -3063,7 +3063,7 @@
     "debt": "500000", 
     "id": "9", 
     "leftover-collateral": "0", 
-    "ratio": 413.0, 
+    "ratio": 401.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34320"
   }, 
@@ -3076,7 +3076,7 @@
     "debt": "514804", 
     "id": "10", 
     "leftover-collateral": "0", 
-    "ratio": 402.0, 
+    "ratio": 390.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "34322"
   }, 
@@ -3089,7 +3089,7 @@
     "debt": "40000", 
     "id": "12", 
     "leftover-collateral": "0", 
-    "ratio": 5168.0, 
+    "ratio": 5014.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34324"
   }, 
@@ -3102,7 +3102,7 @@
     "debt": "9000", 
     "id": "6", 
     "leftover-collateral": "0", 
-    "ratio": 22971.0, 
+    "ratio": 22284.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34318"
   }, 
@@ -3115,7 +3115,7 @@
     "debt": "80808", 
     "id": "2", 
     "leftover-collateral": "0", 
-    "ratio": 920.0, 
+    "ratio": 893.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34314"
   }, 
@@ -3128,7 +3128,7 @@
     "debt": "1832000000", 
     "id": "1952", 
     "leftover-collateral": "0", 
-    "ratio": 320.0, 
+    "ratio": 308.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "49958"
   }, 
@@ -3154,7 +3154,7 @@
     "debt": "90", 
     "id": "5", 
     "leftover-collateral": "0", 
-    "ratio": 2297084.0, 
+    "ratio": 2228444.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34317"
   }, 
@@ -3167,7 +3167,7 @@
     "debt": "366197", 
     "id": "8", 
     "leftover-collateral": "0", 
-    "ratio": 583.0, 
+    "ratio": 565.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34319"
   }, 
@@ -3180,7 +3180,7 @@
     "debt": "900", 
     "id": "4", 
     "leftover-collateral": "0", 
-    "ratio": 229708.0, 
+    "ratio": 222844.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34316"
   }, 
@@ -3193,7 +3193,7 @@
     "debt": "600000", 
     "id": "3", 
     "leftover-collateral": "0", 
-    "ratio": 345.0, 
+    "ratio": 334.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34315"
   }, 
@@ -3206,7 +3206,7 @@
     "debt": "14373", 
     "id": "13", 
     "leftover-collateral": "0", 
-    "ratio": 18246.0, 
+    "ratio": 17701.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34332"
   }, 
@@ -3232,7 +3232,7 @@
     "debt": "198584252", 
     "id": "990", 
     "leftover-collateral": "0", 
-    "ratio": 312.0, 
+    "ratio": 303.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35258"
   }, 
@@ -3245,7 +3245,7 @@
     "debt": "115776", 
     "id": "2116", 
     "leftover-collateral": "0", 
-    "ratio": 1736.0, 
+    "ratio": 1685.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "59474"
   }, 
@@ -3271,7 +3271,7 @@
     "debt": "50000000", 
     "id": "2133", 
     "leftover-collateral": "0", 
-    "ratio": 318.0, 
+    "ratio": 306.0, 
     "collateral-type": "XBTC-A", 
     "created-at-block-height": "60466"
   }, 
@@ -3284,7 +3284,7 @@
     "debt": "2884542", 
     "id": "416", 
     "leftover-collateral": "0", 
-    "ratio": 17918.0, 
+    "ratio": 17382.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34686"
   }, 
@@ -3323,7 +3323,7 @@
     "debt": "20792001", 
     "id": "1864", 
     "leftover-collateral": "0", 
-    "ratio": 410.0, 
+    "ratio": 398.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "44839"
   }, 
@@ -3336,7 +3336,7 @@
     "debt": "71915", 
     "id": "1576", 
     "leftover-collateral": "0", 
-    "ratio": 35934.0, 
+    "ratio": 34861.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "39164"
   }, 
@@ -3349,7 +3349,7 @@
     "debt": "611", 
     "id": "324", 
     "leftover-collateral": "0", 
-    "ratio": 18609768.0, 
+    "ratio": 18053682.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34656"
   }, 
@@ -3362,7 +3362,7 @@
     "debt": "1000000", 
     "id": "1202", 
     "leftover-collateral": "0", 
-    "ratio": 7753.0, 
+    "ratio": 7521.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35518"
   }, 
@@ -3375,7 +3375,7 @@
     "debt": "739761", 
     "id": "1395", 
     "leftover-collateral": "0", 
-    "ratio": 8174.0, 
+    "ratio": 7930.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "37246"
   }, 
@@ -3388,7 +3388,7 @@
     "debt": "57648892", 
     "id": "385", 
     "leftover-collateral": "0", 
-    "ratio": 403.0, 
+    "ratio": 391.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34676"
   }, 
@@ -3427,7 +3427,7 @@
     "debt": "1613076990", 
     "id": "368", 
     "leftover-collateral": "0", 
-    "ratio": 320.0, 
+    "ratio": 311.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34669"
   }, 
@@ -3440,7 +3440,7 @@
     "debt": "820810", 
     "id": "1543", 
     "leftover-collateral": "0", 
-    "ratio": 13538.0, 
+    "ratio": 13133.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "38629"
   }, 
@@ -3453,7 +3453,7 @@
     "debt": "141827", 
     "id": "1574", 
     "leftover-collateral": "0", 
-    "ratio": 14577.0, 
+    "ratio": 14141.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "39148"
   }, 
@@ -3466,7 +3466,7 @@
     "debt": "1800000", 
     "id": "1594", 
     "leftover-collateral": "0", 
-    "ratio": 15200.0, 
+    "ratio": 14746.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "39409"
   }, 
@@ -3479,7 +3479,7 @@
     "debt": "24074", 
     "id": "1673", 
     "leftover-collateral": "0", 
-    "ratio": 85876.0, 
+    "ratio": 83310.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "40449"
   }, 
@@ -3492,7 +3492,7 @@
     "debt": "319499006", 
     "id": "608", 
     "leftover-collateral": "0", 
-    "ratio": 518.0, 
+    "ratio": 503.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34815"
   }, 
@@ -3505,7 +3505,7 @@
     "debt": "15417300", 
     "id": "1881", 
     "leftover-collateral": "0", 
-    "ratio": 335.0, 
+    "ratio": 325.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "46069"
   }, 
@@ -3518,7 +3518,7 @@
     "debt": "4482", 
     "id": "1581", 
     "leftover-collateral": "0", 
-    "ratio": 29538222.0, 
+    "ratio": 28655580.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "39215"
   }, 
@@ -3557,7 +3557,7 @@
     "debt": "2151", 
     "id": "106", 
     "leftover-collateral": "0", 
-    "ratio": 43269.0, 
+    "ratio": 41976.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34614"
   }, 
@@ -3570,7 +3570,7 @@
     "debt": "23184", 
     "id": "2060", 
     "leftover-collateral": "0", 
-    "ratio": 222931.0, 
+    "ratio": 216270.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "54928"
   }, 
@@ -3583,7 +3583,7 @@
     "debt": "502947", 
     "id": "1124", 
     "leftover-collateral": "0", 
-    "ratio": 10276.0, 
+    "ratio": 9969.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35379"
   }, 
@@ -3609,7 +3609,7 @@
     "debt": "2383645", 
     "id": "1605", 
     "leftover-collateral": "0", 
-    "ratio": 22237.0, 
+    "ratio": 21572.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "39560"
   }, 
@@ -3635,7 +3635,7 @@
     "debt": "19422", 
     "id": "2052", 
     "leftover-collateral": "0", 
-    "ratio": 2741.0, 
+    "ratio": 2659.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "54550"
   }, 
@@ -3674,7 +3674,7 @@
     "debt": "930", 
     "id": "1701", 
     "leftover-collateral": "0", 
-    "ratio": 2991772.0, 
+    "ratio": 2902373.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "40995"
   }, 
@@ -3700,7 +3700,7 @@
     "debt": "117848", 
     "id": "1663", 
     "leftover-collateral": "0", 
-    "ratio": 87714.0, 
+    "ratio": 85093.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "40261"
   }, 
@@ -3713,7 +3713,7 @@
     "debt": "347852", 
     "id": "419", 
     "leftover-collateral": "0", 
-    "ratio": 14858.0, 
+    "ratio": 14414.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34686"
   }, 
@@ -3726,7 +3726,7 @@
     "debt": "44859", 
     "id": "1877", 
     "leftover-collateral": "0", 
-    "ratio": 1152.0, 
+    "ratio": 1118.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "45590"
   }, 
@@ -3739,7 +3739,7 @@
     "debt": "21099806", 
     "id": "1404", 
     "leftover-collateral": "0", 
-    "ratio": 619.0, 
+    "ratio": 600.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "37415"
   }, 
@@ -3752,7 +3752,7 @@
     "debt": "57", 
     "id": "965", 
     "leftover-collateral": "0", 
-    "ratio": 2496517.0, 
+    "ratio": 2421918.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35229"
   }, 
@@ -3765,7 +3765,7 @@
     "debt": "9926", 
     "id": "1186", 
     "leftover-collateral": "0", 
-    "ratio": 25533.0, 
+    "ratio": 24770.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "35473"
   }, 
@@ -3856,7 +3856,7 @@
     "debt": "34927", 
     "id": "443", 
     "leftover-collateral": "0", 
-    "ratio": 22197.0, 
+    "ratio": 21533.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34700"
   }, 
@@ -3882,7 +3882,7 @@
     "debt": "5000000", 
     "id": "1895", 
     "leftover-collateral": "0", 
-    "ratio": 310.0, 
+    "ratio": 301.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "46338"
   }, 
@@ -3895,7 +3895,7 @@
     "debt": "100000", 
     "id": "810", 
     "leftover-collateral": "0", 
-    "ratio": 517.0, 
+    "ratio": 501.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35031"
   }, 
@@ -3934,7 +3934,7 @@
     "debt": "41160", 
     "id": "1492", 
     "leftover-collateral": "0", 
-    "ratio": 2511.0, 
+    "ratio": 2436.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "38053"
   }, 
@@ -3947,7 +3947,7 @@
     "debt": "57148", 
     "id": "1737", 
     "leftover-collateral": "0", 
-    "ratio": 37080.0, 
+    "ratio": 35972.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "41828"
   }, 
@@ -3960,7 +3960,7 @@
     "debt": "48867", 
     "id": "1724", 
     "leftover-collateral": "0", 
-    "ratio": 35249.0, 
+    "ratio": 34196.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "41558"
   }, 
@@ -3973,7 +3973,7 @@
     "debt": "179208", 
     "id": "325", 
     "leftover-collateral": "0", 
-    "ratio": 28840.0, 
+    "ratio": 27979.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34656"
   }, 
@@ -3986,7 +3986,7 @@
     "debt": "250952", 
     "id": "1424", 
     "leftover-collateral": "0", 
-    "ratio": 41191.0, 
+    "ratio": 39960.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "37484"
   }, 
@@ -4012,7 +4012,7 @@
     "debt": "13436", 
     "id": "23", 
     "leftover-collateral": "0", 
-    "ratio": 38467.0, 
+    "ratio": 37318.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34495"
   }, 
@@ -4220,7 +4220,7 @@
     "debt": "1000000", 
     "id": "1328", 
     "leftover-collateral": "0", 
-    "ratio": 723.0, 
+    "ratio": 701.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "36511"
   }, 
@@ -4233,7 +4233,7 @@
     "debt": "183225", 
     "id": "1213", 
     "leftover-collateral": "0", 
-    "ratio": 2821.0, 
+    "ratio": 2737.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35554"
   }, 
@@ -4246,7 +4246,7 @@
     "debt": "25000000", 
     "id": "370", 
     "leftover-collateral": "0", 
-    "ratio": 1447.0, 
+    "ratio": 1404.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34669"
   }, 
@@ -4259,7 +4259,7 @@
     "debt": "13000000", 
     "id": "979", 
     "leftover-collateral": "0", 
-    "ratio": 445.0, 
+    "ratio": 432.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "35243"
   }, 
@@ -4272,7 +4272,7 @@
     "debt": "254868", 
     "id": "402", 
     "leftover-collateral": "0", 
-    "ratio": 475.0, 
+    "ratio": 460.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34681"
   }, 
@@ -4285,7 +4285,7 @@
     "debt": "1000000", 
     "id": "813", 
     "leftover-collateral": "0", 
-    "ratio": 1551.0, 
+    "ratio": 1504.0, 
     "collateral-type": "STX-B", 
     "created-at-block-height": "35034"
   }, 
@@ -4324,7 +4324,7 @@
     "debt": "100000", 
     "id": "653", 
     "leftover-collateral": "0", 
-    "ratio": 517.0, 
+    "ratio": 501.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34859"
   }, 
@@ -4337,7 +4337,7 @@
     "debt": "10000000", 
     "id": "344", 
     "leftover-collateral": "0", 
-    "ratio": 4672.0, 
+    "ratio": 4533.0, 
     "collateral-type": "STX-A", 
     "created-at-block-height": "34663"
   }
