@@ -59,7 +59,7 @@
 	if (collateralType =="STX-B"){ minratio = 130}
 	if (collateralType =="XBTC-A"){ minratio = 130}
 	if (value - minratio < 10){  color = "red"}
-	if (value - minratio < 50){  color = "orange"}
+	else if ( value - minratio < 50){  color = "orange"}
 	if (value > 99999) { value = ">100000"}
 	return '<div style="color: ' + color + '">' + value + '</div>'
     }
